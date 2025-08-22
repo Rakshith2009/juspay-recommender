@@ -1,18 +1,4 @@
-Here’s the **final, production‑ready repo structure** with an expanded Streamlit app that includes:
-- Must‑have vs Good‑to‑have recommendations per industry
-- Feature Add‑ons (Quick Pay, Retry, UPI Autopay, and many more) with *why/when*, friendly API explanations, and docs/demo links
-- Auto‑suggestions based on industry, channel, and scale
-- Simple, friendly UI copy
 
-```
-📂 juspay-recommender/
-├── 📄 juspay_recommender.py      # main Streamlit app (full logic + catalogs)
-├── 📄 requirements.txt           # Python dependencies
-├── 📄 setup.sh                   # (optional, Streamlit Cloud)
-├── 📄 Procfile                   # (optional, Heroku)
-└── 📄 README.md                  # quick start
-```
-```
 # =========================
 # juspay_recommender.py
 # =========================
